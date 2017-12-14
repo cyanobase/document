@@ -1,6 +1,5 @@
 About CyanoBase
 ---------------
-# [About CyanoBase](#about)
 
 Cyanobacteria carry a complete set of genes for oxygenic photosynthesis,
 which is the most fundamental life process on the earth. This organism
