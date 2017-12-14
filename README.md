@@ -97,8 +97,8 @@ Cyanobacterium *Synechocystis* sp. strain PCC6803 through WWW.
 in <cite>Proceedings of Genome Informatics Workshop</cite> 1995,
 102-103.
 
-News and release notes for
-[CyanoBase](http://genome.kazusa.or.jp/cyanobase).
+
+## News and release notes for [CyanoBase](http://genome.microbedb.jp/cyanobase). ##
 
 2012-12-01
 ----------
