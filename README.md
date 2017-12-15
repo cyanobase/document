@@ -21,6 +21,13 @@ Genetics](http://www.nig.ac.jp/section/yn/yn-e.html) since 2011.
 
 Publications
 ------------
+[CyanoBase: a large-scale update on its 20th anniversary.](https://academic.oup.com/nar/article/45/D1/D551/2605749)
+
+**Fujisawa T, Narikawa R, Maeda SI, Watanabe S, Kanesaki Y, Kobayashi K, Nomata J, Hanaoka M, Watanabe M, Ehira S, Suzuki E, Awai K, Nakamura Y.**
+
+<cite>Nucleic Acids Research</cite> 2017; doi: 10.1093/nar/gkw1131
+[https://academic.oup.com/nar/article-pdf/45/D1/D551/8846945/gkw1131.pdf](https://academic.oup.com/nar/article-pdf/45/D1/D551/8846945/gkw1131.pdf "wikilink")
+
 
 [CyanoBase and RhizoBase: databases of manually curated annotations for
 cyanobacterial and rhizobial
