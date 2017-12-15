@@ -347,3 +347,8 @@ We thank Dr. Goto and KEGG project team for providing a browser for
 Akiyama, Institute for Chemical Research, Kyoto University.
 
 [\*](Category:CyanoBase "wikilink")
+
+
+Links
+---------------
+* [test](document/test)
