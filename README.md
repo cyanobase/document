@@ -104,14 +104,18 @@ Cyanobacterium *Synechocystis* sp. strain PCC6803 through WWW.
 in <cite>Proceedings of Genome Informatics Workshop</cite> 1995,
 102-103.
 
-
-## News and release notes for [CyanoBase](http://genome.microbedb.jp/cyanobase). ##
+Topics
+----------
+News and release notes for [CyanoBase](http://genome.microbedb.jp/cyanobase).
 
 2012-12-01
 ----------
-
 -   Updated the definition and gene symbols in cyanobacteria
     desaturases, suggested from Dr. Norio Murata.
+
+2011年6月
+----------
+Transfer of database from Kazusa DNA Research Institute to National Institute of Genetics
 
 2009-12-24
 ----------
