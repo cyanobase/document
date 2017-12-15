@@ -351,4 +351,4 @@ Akiyama, Institute for Chemical Research, Kyoto University.
 
 Links
 ---------------
-* [test](document/test)
+* [test](test)
