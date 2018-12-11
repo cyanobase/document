@@ -55,43 +55,49 @@ bioinformatics tools and database in Japan.
 Genome List
 ---------------
 
-| Scientific Name                        | Sample Name                            | NIES      | BioSample    | 
-|----------------------------------------|----------------------------------------|-----------|--------------| 
-| Anabaena cylindrica PCC 7122           | Anabaena cylindrica NIES-19            | NIES-19   | SAMD00079794 | 
-| Anabaenopsis circularis NIES-21        | Anabaenopsis circularis NIES-21        | NIES-21   | SAMD00079795 | 
-| Calothrix brevissima NIES-22           | Calothrix brevissima NIES-22           | NIES-22   | SAMD00079796 | 
-| Anabaena variabilis NIES-23            | Anabaena variabilis NIES-23            | NIES-23   | SAMD00079797 | 
-| Nostoc linckia NIES-25                 | Nostoc linckia NIES-25                 | NIES-25   | SAMD00079798 | 
-| Aulosira laxa NIES-50                  | Aulosira laxa NIES-50                  | NIES-50   | SAMD00079799 | 
-| Sphaerospermopsis kisseleviana NIES-73 | Sphaerospermopsis kisseleviana NIES-73 | NIES-73   | SAMD00079800 | 
-| Calothrix parasitica NIES-267          | Calothrix parasitica NIES-267          | NIES-267  | SAMD00079801 | 
-| Dolichospermum compactum NIES-806      | Dolichospermum compactum NIES-806      | NIES-806  | SAMD00079802 | 
-| Raphidiopsis curvata NIES-932          | Raphidiopsis curvata NIES-932          | NIES-932  | SAMD00079803 | 
-| Nostoc carneum NIES-2107               | Nostoc carneum NIES-2107               | NIES-2107 | SAMD00079804 | 
-| Calothrix sp. NIES-2098                | Calothrix sp. NIES-2098                | NIES-2098 | SAMD00079805 | 
-| Calothrix sp. NIES-2100                | Calothrix sp. NIES-2100                | NIES-2100 | SAMD00079806 | 
-| Nostoc sp. HK-01                       | Nostoc sp. NIES-2109                   | NIES-2109 | SAMD00079807 | 
-| Nostoc sp. NIES-2110                   | Nostoc sp. NIES-2110                   | NIES-2110 | SAMD00079808 | 
-| Nostoc sp. NIES-2111                   | Nostoc sp. NIES-2111                   | NIES-2111 | SAMD00079809 | 
-| Nostoc commune HK-02                   | Nostoc sp. NIES-4070                   | NIES-4070 | SAMD00079810 | 
-| Scytonema sp. HK-05                    | Scytonema sp. NIES-2130                | NIES-2130 | SAMD00079811 | 
-| Leptolyngbya boryana NIES-2135         | Leptolyngbya boryana NIES-2135         | NIES-2135 | SAMD00079812 | 
-| Fremyella diplosiphon NIES-3275        | Fremyella diplosiphon NIES-3275        | NIES-3275 | SAMD00079813 | 
-| Nodularia sp. NIES-3585                | Nodularia sp. NIES-3585                | NIES-3585 | SAMD00079814 | 
-| Tolypothrix tenuis PCC 7101            | Tolypothrix tenuis NIES-37             | NIES-37   | SAMD00081165 | 
-| Nostoc commune HK-02                   | Nostoc commune NIES-2114               | NIES-2114 | SAMD00081166 | 
-| Fischerella sp. NIES-4106              | Fischerella sp. NIES-4106              | NIES-4106 | SAMD00081167 | 
-| Cylindrospermum sp. NIES-4074          | Cylindrospermum sp. NIES-4074          | NIES-4074 | SAMD00081168 | 
-| Nostoc sp. NIES-4103                   | Nostoc sp. NIES-4103                   | NIES-4103 | SAMD00081169 | 
-| Nostoc commune NIES-4072               | Nostoc commune NIES-4072               | NIES-4072 | SAMD00081170 | 
-| Tolypothrix sp. NIES-4075              | Tolypothrix sp. NIES-4075              | NIES-4075 | SAMD00081171 | 
-| Chondrocystis sp. NIES-4102            | Chondrocystis sp. NIES-4102            | NIES-4102 | SAMD00081172 | 
-| Calothrix sp. NIES-4101                | Calothrix sp. NIES-4101                | NIES-4101 | SAMD00081173 | 
-| Calothrix sp. NIES-3974                | Calothrix sp. NIES-3974                | NIES-3974 | SAMD00081174 | 
-| Calothrix sp. NIES-4105                | Calothrix sp. NIES-4105                | NIES-4105 | SAMD00081175 | 
-| Scytonema sp. NIES-4073                | Scytonema sp. NIES-4073                | NIES-4073 | SAMD00081176 | 
-| Thermosynechococcus vulcunus NIES-2134 | Thermosynechococcus vulcunus NIES-2134 | NIES-2134 | SAMD00081177 | 
-| Calothrix sp. NIES-4071                | Calothrix sp. NIES-4071                | NIES-4071 | SAMD00081178 | 
+| No | Strain                                 | Genome size | Nubmer of replicons | Nubmer of gaps | Assemble level | 
+|---:|:---------------------------------------|------------:|--------------------:|---------------:|:---------------| 
+| 1  | Anabaena cylindrica NIES-19            | 7,025,636   | 6                   | 12             | chromosome     | 
+| 2  | Anabaena variabilis NIES-23            | 7,472,891   | 6                   | 26             | chromosome     | 
+| 3  | Anabaenopsis circularis NIES-21        | 7,040,675   | 4                   | 12             | chromosome     | 
+| 4  | Aulosira laxa NIES-50                  | 9,203,320   | 4                   | 10             | chromosome     | 
+| 5  | Calothrix brevissima NIES-22           | 9,095,830   | 8                   | 6              | chromosome     | 
+| 6  | Calothrix elenkinii NIES-2098          | 8,878,628   | 2                   | 0              | complete       | 
+| 7  | Calothrix gracilis NIES-2100           | 9,963,103   | 2                   | 7              | chromosome     | 
+| 8  | Calothrix parasitica NIES-267          | 9,482,845   | 7                   | 22             | chromosome     | 
+| 9  | Calothrix sp. NIES-4105                | 11,630,699  | 8                   | 3              | chromosome     | 
+| 10 | Calothrix sp. NIES-3974                | 5,985,876   | 5                   | 0              | complete       | 
+| 11 | Calothrix sp. NIES-4071                | 12,049,274  | 9                   | 0              | complete       | 
+| 12 | Calothrix sp. NIES-4101                | 10,561,507  | 7                   | 0              | complete       | 
+| 13 | Cylindrospermum sp. NIES-4074          | 7,704,857   | 4                   | 10             | chromosome     | 
+| 14 | Dolichospermum compactum NIES-806      | 5,165,124   | 1                   | 87             | chromosome     | 
+| 15 | Fremyella diplosiphon NIES-3275        | 10,126,555  | 15                  | 73             | chromosome     | 
+| 16 | Fischerella sp. NIES-4106              | 7,080,304   | 9                   | 5              | chromosome     | 
+| 17 | Nodularia sp. NIES-3585                | 5,773,538   | 4                   | 14             | chromosome     | 
+| 18 | Nostoc carneum NIES-2107               | 9,346,431   | 4                   | 12             | chromosome     | 
+| 19 | Nostoc commune NIES-2114               | 8,228,310   | 9                   | 30             | chromosome     | 
+| 20 | Nostoc commune NIES-4072               | 8,199,141   | 11                  | 30             | chromosome     | 
+| 21 | Nostoc linckia NIES-25                 | 8,583,000   | 5                   | 18             | chromosome     | 
+| 22 | Nostoc sp. NIES-2109                   | 7,527,728   | 8                   | 0              | complete       | 
+| 23 | Nostoc sp. NIES-2110                   | 7,555,555   | 8                   | 0              | complete       | 
+| 24 | Nostoc sp. NIES-2111                   | 7,874,250   | 10                  | 0              | complete       | 
+| 25 | Nostoc sp. NIES-4103                   | 8,590,607   | 2                   | 46             | chromosome     | 
+| 26 | Raphidiopsis curvata NIES-932          | 3,431,981   | 1                   | 21             | chromosome     | 
+| 27 | Scytonema sp. NIES-2130                | 9,762,966   | 8                   | 31             | chromosome     | 
+| 28 | Scytonema sp. NIES-4073                | 9,848,021   | 6                   | 21             | chromosome     | 
+| 29 | Sphaerospermopsis kisseleviana NIES-73 | 5,609,991   | 2                   | 140            | chromosome     | 
+| 30 | Tolypothrix tenuis NIES-37             | 9,352,233   | 6                   | 19             | chromosome     | 
+| 31 | Tolypothrix sp. NIES-4075              | 8,305,665   | 65                  | -              | scaffold       | 
+| 32 | Leptolyngbya sp. NIES-2135             |             |                     |                |                | 
+| 33 | Thermosynechococcys NIES-2134          |             |                     |                |                | 
+| 34 | Chondrocystis sp. NIES-4102            |             |                     |                |                | 
+| 35 | Stanieria sp NIES-3757                 |             |                     |                |                | 
+| 36 | Geminocystis sp. NIES-3708             |             |                     |                |                | 
+| 37 | Geminocystis sp. NIES-3709             |             |                     |                |                | 
+| 38 | Leptolyngbya sp. NIES-3755             |             |                     |                |                | 
+| 39 | Fischerella sp. NIES-3754              |             |                     |                |                | 
+| 40 | Nostoc sp. NIES-3756                   |             |                     |                |                | 
+
  
 
 Links
