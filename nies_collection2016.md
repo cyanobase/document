@@ -57,8 +57,6 @@ Genome List
 
 | No | Strain                                 | Genome size | Nubmer of replicons | Nubmer of gaps | Assemble level | 
 |---:|:---------------------------------------|------------:|--------------------:|---------------:|:---------------| 
-| No | Strain                                 | Genome size | Nubmer of replicons | Nubmer of gaps | Assemble level | 
-|----|----------------------------------------|-------------|---------------------|----------------|----------------| 
 | 1  | Anabaena cylindrica NIES-19            | 7,025,636   | 6                   | 12             | chromosome     | 
 | 2  | Anabaena variabilis NIES-23            | 7,472,891   | 6                   | 26             | chromosome     | 
 | 3  | Anabaenopsis circularis NIES-21        | 7,040,675   | 4                   | 12             | chromosome     | 
