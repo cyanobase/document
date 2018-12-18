@@ -57,6 +57,8 @@ Genome List
 
 | No | Strain                                 | Genome size | Nubmer of replicons | Nubmer of gaps | Assemble level | 
 |---:|:---------------------------------------|------------:|--------------------:|---------------:|:---------------| 
+| No | Strain                                 | Genome size | Nubmer of replicons | Nubmer of gaps | Assemble level | 
+|----|----------------------------------------|-------------|---------------------|----------------|----------------| 
 | 1  | Anabaena cylindrica NIES-19            | 7,025,636   | 6                   | 12             | chromosome     | 
 | 2  | Anabaena variabilis NIES-23            | 7,472,891   | 6                   | 26             | chromosome     | 
 | 3  | Anabaenopsis circularis NIES-21        | 7,040,675   | 4                   | 12             | chromosome     | 
@@ -88,17 +90,17 @@ Genome List
 | 29 | Sphaerospermopsis kisseleviana NIES-73 | 5,609,991   | 2                   | 140            | chromosome     | 
 | 30 | Tolypothrix tenuis NIES-37             | 9,352,233   | 6                   | 19             | chromosome     | 
 | 31 | Tolypothrix sp. NIES-4075              | 8,305,665   | 65                  | -              | scaffold       | 
-| 32 | Leptolyngbya sp. NIES-2135             |             |                     |                |                | 
-| 33 | Thermosynechococcys NIES-2134          |             |                     |                |                | 
-| 34 | Chondrocystis sp. NIES-4102            |             |                     |                |                | 
-| 35 | Stanieria sp NIES-3757                 |             |                     |                |                | 
-| 36 | Geminocystis sp. NIES-3708             |             |                     |                |                | 
-| 37 | Geminocystis sp. NIES-3709             |             |                     |                |                | 
-| 38 | Leptolyngbya sp. NIES-3755             |             |                     |                |                | 
-| 39 | Fischerella sp. NIES-3754              |             |                     |                |                | 
-| 40 | Nostoc sp. NIES-3756                   |             |                     |                |                | 
+| 32 | Leptolyngbya sp. NIES-2135             | 7,233,668   | 4                   | 0              | complete       | 
+| 33 | Thermosynechococcys NIES-2134          | 2,571,271   | 1                   | 0              | complete       | 
+| 34 | Chondrocystis sp. NIES-4102            | 5,002,520   | 7                   | 0              | complete       | 
+| 35 | Stanieria sp NIES-3757                 | 5,463,308   | 2                   | 0              | complete       | 
+| 36 | Geminocystis sp. NIES-3708             | 4,042,078   | 6                   | 0              | complete       | 
+| 37 | Geminocystis sp. NIES-3709             | 4,426,059   | 12                  | 0              | complete       | 
+| 38 | Leptolyngbya sp. NIES-3755             | 6,761,657   | 4                   | 0              | complete       | 
+| 39 | Fischerella sp. NIES-3754              | 5,826,863   | 3                   | 0              | complete       | 
+| 40 | Nostoc sp. NIES-3756                   | 6,987,571   | 3                   | 0              | complete       | 
 
- 
+
 
 Links
 ---------------
